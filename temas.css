@@ -1,0 +1,35 @@
+.contenedor{
+    width: 100px;
+    height: 1200px;
+    background-color: fuchsia;
+}
+.encabezado{
+width: 100px; ;
+height: 200px;
+background-color: cornsilk;
+}
+.bología{
+width: 100px; ;
+height: 200px;
+background-color: rgb(231, 144, 173);
+}
+.inglés{
+    width: 100px; ;
+height: 200px;
+background-color: rgb(59, 88, 66);
+}
+.matemáticas{
+    width: 100px; ;
+    height: 200px;
+    background-color: rgb(165, 187, 214);
+}
+.tecnología{
+    width: 100px; ;
+height: 200px;
+background-color: rgb(238, 162, 100);
+}
+.quimica{
+    width: 100px; ;
+height: 200px;
+background-color: rgb(120, 104, 211);
+}
